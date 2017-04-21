@@ -12,5 +12,3 @@ A non-developer co-worker has attempted to implement a design in haste and while
 Remember: In implementing a design, attention to detail is key (*container sizes, positioning, fonts, etc. *)
 
 Bonus points for adding JavaScript enhancement (*Feel free to use your imagination and show off your skills. Do no not use any libraries outside jQuery for this challenge.*)
-
-Submit your response to careers@igloosoftware.com
