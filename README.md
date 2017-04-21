@@ -9,6 +9,6 @@ A non-developer co-worker has attempted to implement a design in haste and while
 2. Refer to the design mock-ups while developing the home page [Design Assets](https://github.com/IglooSoftware/Code-Challenge-WEB/tree/master/assets)
 3. Start your work in the index.html file
 
-Remember: In implementing a design, attention to detail is key (*container sizes, positioning, fonts, etc. *)
+Remember: In implementing a design, attention to detail is key (*container sizes, positioning, fonts, etc.*)
 
 Bonus points for adding JavaScript enhancement (*Feel free to use your imagination and show off your skills. Do no not use any libraries outside jQuery for this challenge.*)
